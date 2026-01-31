@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+transformers
+requests
+groq
+sentence-transformers
+faiss-cpu
